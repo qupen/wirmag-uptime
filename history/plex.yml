@@ -1,7 +1,7 @@
-url: https://lel.wirmag.se
-status: down
-code: 401
-responseTime: 792
-lastUpdated: 2024-09-11T13:21:35.972Z
+url: https://lel.wirmag.se/web/index.html
+status: up
+code: 200
+responseTime: 712
+lastUpdated: 2024-09-11T13:40:17.186Z
 startTime: 2024-09-11T13:21:34.940Z
 generator: Upptime <https://github.com/upptime/upptime>
