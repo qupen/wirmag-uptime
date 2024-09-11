@@ -8,7 +8,7 @@ sites:
   - name: Nextcloud
     url: https://cloud.wirmag.se
   - name: Plex
-    url: https://lel.wirmag.se
+    url: https://lel.wirmag.se/web/index.html
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
