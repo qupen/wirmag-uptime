@@ -40,19 +40,19 @@
     "url": "https://lel.wirmag.se/web/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/lel.wirmag.se.ico",
     "slug": "plex",
-    "status": "down",
-    "uptime": "71.21%",
-    "uptimeDay": "71.21%",
-    "uptimeWeek": "71.21%",
-    "uptimeMonth": "71.21%",
-    "uptimeYear": "71.21%",
-    "time": 880,
-    "timeDay": 880,
-    "timeWeek": 880,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "status": "up",
+    "uptime": "61.55%",
+    "uptimeDay": "61.55%",
+    "uptimeWeek": "61.55%",
+    "uptimeMonth": "61.55%",
+    "uptimeYear": "61.55%",
+    "time": 859,
+    "timeDay": 859,
+    "timeWeek": 859,
+    "timeMonth": 859,
+    "timeYear": 859,
     "dailyMinutesDown": {
-      "2024-09-11": 19
+      "2024-09-11": 30
     }
   },
   {
