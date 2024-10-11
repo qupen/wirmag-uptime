@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 718,
-    "timeDay": 487,
-    "timeWeek": 634,
-    "timeMonth": 718,
-    "timeYear": 718,
+    "time": 717,
+    "timeDay": 684,
+    "timeWeek": 627,
+    "timeMonth": 717,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2024-09-11": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1286,
-    "timeDay": 982,
-    "timeWeek": 1149,
-    "timeMonth": 1286,
-    "timeYear": 1286,
+    "time": 1274,
+    "timeDay": 893,
+    "timeWeek": 1095,
+    "timeMonth": 1274,
+    "timeYear": 1274,
     "dailyMinutesDown": {
       "2024-09-11": 30
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lel.wirmag.se.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 980,
-    "timeDay": 1003,
-    "timeWeek": 979,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 969,
+    "timeDay": 601,
+    "timeWeek": 919,
+    "timeMonth": 969,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2024-09-27": 25,
       "2024-09-11": 60
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 89,
-    "timeWeek": 92,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "time": 100,
+    "timeDay": 90,
+    "timeWeek": 90,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   }
 ]
